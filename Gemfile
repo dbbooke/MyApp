@@ -51,5 +51,9 @@ end
 gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem "font-awesome-rails"
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
+gem 'devise'
+gem 'toastr-rails'
+gem 'activeadmin', github: 'activeadmin'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 ruby "2.4.1"

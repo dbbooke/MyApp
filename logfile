@@ -1,0 +1,6 @@
+2018-03-12 22:32:43.935 MST [2354] LOG:  listening on IPv6 address "::1", port 5432
+2018-03-12 22:32:43.935 MST [2354] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2018-03-12 22:32:43.937 MST [2354] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2018-03-12 22:32:43.951 MST [2355] LOG:  database system was shut down at 2018-03-12 22:32:35 MST
+2018-03-12 22:32:43.954 MST [2354] LOG:  database system is ready to accept connections
+2018-03-12 22:32:51.808 MST [2366] FATAL:  database "myapp_development" does not exist
